@@ -1,0 +1,42 @@
+* {
+    font-family: Arial;
+}
+
+
+body {
+    background-color:  rgb(0, 174, 240);
+}
+
+header {
+    background-color: rgb(1, 93, 140);
+}
+
+main {
+    background-color: white;
+}
+
+
+h1 {
+    color: white;
+
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 18px;
+    text-transform: uppercase;
+
+}
+
+p {
+    font-size: 14px;
+}
+
+li {
+    font-size: 14px;
+}
+
+span {
+    font-weight: bold;
+}
