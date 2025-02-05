@@ -30,6 +30,8 @@ div {
     border: black solid 2px;
 
     flex: 1 1 40%;
+
+    padding: 2vw;
 }
 
 h1 {
@@ -38,7 +40,7 @@ h1 {
     font-size: 5vh;
     text-transform: uppercase;
 
-    padding: 3vh;
+    padding: 2vw;
     margin: 0;
 }
 
@@ -46,19 +48,15 @@ h2 {
     font-size: 3vh;
     text-transform: uppercase;
 
-    margin: 1vw 1vw 1.5vw 1vw;
+    margin: 0;
 }
 
 p {
     font-size: 2vh;
-
-    margin: 1vw;
 }
 
 li {
     font-size: 2vh;
-
-    margin: 0.5vw;
 }
 
 span {
