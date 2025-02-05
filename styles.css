@@ -12,15 +12,24 @@ header {
     background-color: rgb(1, 93, 140);
 
     text-align: center;
+
+    margin: 0 7vw 0 7vw;
 }
 
 main {
     background-color: white;
+
+    display: flex;
+    flex-wrap: wrap;
+
+    margin: 0 7vw 0 7vw;
 }
 
 
 div {
     border: black solid 2px;
+
+    flex: 1 1 40%;
 }
 
 h1 {
